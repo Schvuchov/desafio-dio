@@ -1,0 +1,16 @@
+Git/GItHub
+
+- Criamos uma pasta para o projeto e um arquivo README.md (md = markdown)
+	comandos Git Bash: 
+		git init 
+		git add README.md 
+		git commit -m "mensagem sobre o commit"
+		git remote add origin https...
+		git push -u origin main
+
+- Alterando arquivo
+	comandos Git Bash:
+		git add .    (atualiza todas as alterações)
+		git status    (verificando status)
+		git commit -m "mensagem sobre alteração"
+		git push origin main
